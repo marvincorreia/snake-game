@@ -1,14 +1,14 @@
 *.depend
 *.cscope_file_list
 *.layout
-/bin
+#/bin
 /obj
 *.txt
 *.o
 *.ko
 *.obj
 *.elf
-*.exe
+#*.exe
 *.out
 *.app
 *.i*86
