@@ -16,7 +16,7 @@ avançados de programação em linguagem C:
 # Game Play
 
 Menu:
-![Menu](https://github.com/marvincorreia/snake-game/blob/master/data/images/menu.png)
+![Menu](https://github.com/marvincorreia/snake-game/blob/master/images/menu.png)
 
 Game Play:
-![Menu](https://github.com/marvincorreia/snake-game/blob/master/data/images/gameplay.png)
+![Menu](https://github.com/marvincorreia/snake-game/blob/master/images/gameplay.png)
