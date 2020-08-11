@@ -16,7 +16,7 @@ avançados de programação em linguagem C:
 # Game Play
 
 Menu:
-![Menu](https://github.com/marvincorreia/pratin-soccer/blob/master/data/game_play/menu.png)
+![Menu](https://github.com/marvincorreia/snake-game/blob/master/data/game_play/menu.png)
 
 Game Play:
-![Menu](https://github.com/marvincorreia/pratin-soccer/blob/master/data/game_play/gameplay.png)
+![Menu](https://github.com/marvincorreia/snake-game/blob/master/data/game_play/gameplay.png)
